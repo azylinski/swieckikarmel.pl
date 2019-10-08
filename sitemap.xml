@@ -3,41 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://swieckikarmel.pl/posts/</loc>
-    <lastmod>2019-10-03T22:59:50+03:00</lastmod>
+    <loc>https://swieckikarmel.pl/linki/</loc>
+    <lastmod>2019-10-09T00:06:39+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://swieckikarmel.pl/posts/04-przyjecie/</loc>
-    <lastmod>2019-10-03T22:59:50+03:00</lastmod>
+    <loc>https://swieckikarmel.pl/posts/</loc>
+    <lastmod>2019-10-09T00:06:39+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://swieckikarmel.pl/</loc>
+    <lastmod>2019-10-09T00:06:39+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://swieckikarmel.pl/przyrzeczenie/</loc>
+    <lastmod>2019-10-08T23:52:40+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://swieckikarmel.pl/przyj%C4%99cie/</loc>
     <lastmod>2019-10-03T22:59:50+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://swieckikarmel.pl/posts/03-powolanie/</loc>
+    <loc>https://swieckikarmel.pl/powo%C5%82anie/</loc>
     <lastmod>2019-10-03T22:53:14+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://swieckikarmel.pl/posts/02-charyzmat/</loc>
+    <loc>https://swieckikarmel.pl/charyzmat/</loc>
     <lastmod>2019-10-03T22:38:37+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://swieckikarmel.pl/posts/01-swiadectwa/</loc>
+    <loc>https://swieckikarmel.pl/%C5%9Bwiadectwa/</loc>
     <lastmod>2019-03-26T08:47:11+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://swieckikarmel.pl/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://swieckikarmel.pl/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
