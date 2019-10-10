@@ -1,8 +1,8 @@
 ---
-menu: "main"
 title: "Charyzmat"
-date: 2019-10-03T22:38:37+03:00
 ---
+
+## Charyzmat Karmelu
 
 Termin charyzmat (z gr. χάρισμα /chárisma/ – „łaska” lub „bezinteresowny dar”) stosowany w chrześcijaństwie oznacza dary Ducha Świętego służące zbudowaniu Kościoła, zaś Katechizm Kościoła Katolickiego stwierdza: „Charyzmaty, zarówno nadzwyczajne, jak również proste i zwyczajne, są łaskami Ducha Świętego, bezpośrednio lub pośrednio służącymi Kościołowi (KKK 799).
 

@@ -1,0 +1,20 @@
+<aside class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a>
+      <p class="lead">
+        "Gdzie jest skarb wasz, tam&nbsp;będzie i serce wasze" (Łk&nbsp;12,34)
+      </p>
+    </div>
+
+    <nav>
+      <ul class="sidebar-nav">
+        {{ range .Site.Menus.main -}}
+          <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+        {{- end }}
+      </ul>
+    </nav>
+
+    <p>Wspólnota Świeckiego Zakonu Karmelitów Bosych pw.&nbsp;św.&nbsp;Józefa&nbsp;Oblubieńca&nbsp;NMP w&nbsp;Sopocie</p>
+  </div>
+</aside>

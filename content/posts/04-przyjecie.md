@@ -1,7 +1,5 @@
 ---
-menu: "main"
 title: "Przyjęcie"
-date: 2019-10-03T22:59:50+03:00
 ---
 
 ## Przyjęcie do Świeckiego Zakonu

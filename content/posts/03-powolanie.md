@@ -1,7 +1,5 @@
 ---
-menu: "main"
 title: "Powołanie"
-date: 2019-10-03T22:53:14+03:00
 ---
 
 ## Kryteria służące do rozeznania powołania

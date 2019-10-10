@@ -1,16 +1,34 @@
 baseURL = "https://swieckikarmel.pl/"
 languageCode = "pl-PL"
 title = "Świecki Karmel Sopot"
-theme = "ananke"
+theme = "hyde"
+staticDir = ["static"]
 googleAnalytics = "UA-60769942-1"
 
 [permalinks]
   posts = "/:slug"
 
-[params]
-  description = "Wspólnota Świeckiego Zakonu Karmelitów Bosych pw. św. Józefa Oblubieńca NMP w Sopocie"
-
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
+
+[params]
+  themeColor = "theme-base-09"
+
+[Menus]
+  main = [
+      {name = "Świadectwa", url = "/świadectwa/", weight = 1},
+      {name = "Charyzmat", url = "/charyzmat/", weight = 2},
+      {name = "Powołanie", url = "/powołanie/", weight = 3},
+      {name = "Przyjęcie", url = "/przyjęcie/", weight = 4},
+      {name = "Formacja", url = "/nil/", weight = 5},
+      {name = "Diakonie", url = "/nil/", weight = 6},
+      {name = "Prośby o modlitwę", url = "/nil/", weight = 7},
+
+      {name = "Przyrzeczenie", url = "/przyrzeczenie/", weight = 5},
+
+      {name = "Blog", url = "http://swieckikarmelsopot.blogspot.com/", weight = 90},
+      {name = "Kontakt", url = "/nil/", weight = 91},
+      {name = "Linki", url = "/linki/", weight = 99},
+  ]

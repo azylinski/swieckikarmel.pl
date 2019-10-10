@@ -1,7 +1,5 @@
 ---
-menu: "main"
 title: "Przyrzeczenie"
-date: 2019-10-08T23:52:40+03:00
 ---
 
 
