@@ -1,15 +1,11 @@
 ---
 title: "Przyjęcie"
+markup: "mmark"
 ---
-
-## Przyjęcie do Świeckiego Zakonu
 
 Na podst. Statutu Świeckiego Zakonu Karmelitów Bosych Prowincji Warszawskiej
 
-
-### II. Przyjęcie do Świeckiego Zakonu
-
-
+## II. Przyjęcie do Świeckiego Zakonu
 
 3. Członkiem zwyczajnym Świeckiego Zakonu Karmelitów Bosych, zwanym dalej członkiem wspólnoty OCDS, może zostać osoba praktykująca, należąca do Kościoła katolickiego, w pełni uczestnicząca w życiu sakramentalnym oraz świadomie przyjmująca Prawo własne Świeckiego Zakonu.
 4. Warunki przyjęcia.

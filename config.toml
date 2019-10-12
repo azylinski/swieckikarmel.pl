@@ -14,7 +14,7 @@ googleAnalytics = "UA-60769942-1"
   filename = "sitemap.xml"
 
 [params]
-  themeColor = "theme-base-09"
+  themeColor = "theme-base-0f"
 
 [Menus]
   main = [
@@ -22,13 +22,12 @@ googleAnalytics = "UA-60769942-1"
       {name = "Charyzmat", url = "/charyzmat/", weight = 2},
       {name = "Powołanie", url = "/powołanie/", weight = 3},
       {name = "Przyjęcie", url = "/przyjęcie/", weight = 4},
-      {name = "Formacja", url = "/nil/", weight = 5},
-      {name = "Diakonie", url = "/nil/", weight = 6},
-      {name = "Prośby o modlitwę", url = "/nil/", weight = 7},
-
-      {name = "Przyrzeczenie", url = "/przyrzeczenie/", weight = 5},
+      {name = "Formacja", url = "/formacja/", weight = 5},
+      {name = "Przyrzeczenie", url = "/przyrzeczenie/", weight = 6},
+      {name = "Diakonie", url = "/diakonie/", weight = 7},
+      {name = "Prośby o modlitwę", url = "mailto:gzylinska@wp.pl?subject=Prośba o modlitwę", weight = 8},
 
       {name = "Blog", url = "http://swieckikarmelsopot.blogspot.com/", weight = 90},
-      {name = "Kontakt", url = "/nil/", weight = 91},
+      {name = "Kontakt", url = "/kontakt/", weight = 91},
       {name = "Linki", url = "/linki/", weight = 99},
   ]

@@ -1,10 +1,11 @@
 ---
 title: "Powołanie"
+markup: "mmark"
 ---
 
 ## Kryteria służące do rozeznania powołania
 
-frag. z „Ratio Institutionis”
+_frag. z „Ratio Institutionis”_
 
 59. Rozeznać powołanie to, innymi słowy, upewnić się co do woli Bożej wobec danej osoby; stwierdzić, że „Bóg ją prowadzi”. W tym rozeznawaniu należy kierować się następującymi zasadami:
   - Bóg nie ukrywa się przed nami, raczej nam się objawia;
