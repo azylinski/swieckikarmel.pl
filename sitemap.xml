@@ -15,6 +15,24 @@
   </url>
   
   <url>
+    <loc>https://swieckikarmel.pl/diakonie/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://swieckikarmel.pl/formacja/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://swieckikarmel.pl/kontakt/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://swieckikarmel.pl/linki/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
