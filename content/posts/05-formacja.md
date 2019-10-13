@@ -1,5 +1,6 @@
 ---
 title: "Formacja"
+description: "Formacja zakonu. Okresy, zasady i program."
 ---
 
 ## Formacja

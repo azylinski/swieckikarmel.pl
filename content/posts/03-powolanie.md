@@ -1,5 +1,7 @@
 ---
 title: "Powołanie"
+description: "Kryteria służące do rozeznania powołania."
+
 markup: "mmark"
 ---
 

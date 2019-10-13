@@ -15,6 +15,7 @@ googleAnalytics = "UA-60769942-1"
 
 [params]
   themeColor = "theme-base-0f"
+  description = "Wspólnota Świeckiego Zakonu Karmelitów Bosych pw. św. Józefa Oblubieńca NMP w Sopocie"
 
 [Menus]
   main = [

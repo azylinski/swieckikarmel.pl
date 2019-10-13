@@ -1,5 +1,6 @@
 ---
 title: "Kontakt"
+description: "Miejsce, terminy i program spotkań."
 ---
 
 ## Kontakt

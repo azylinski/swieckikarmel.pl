@@ -1,5 +1,7 @@
 ---
 title: "Przyjęcie"
+description: "Warunki przyjęcia do Świeckiego Zakonu na podst. Statutu Świeckiego Zakonu Karmelitów Bosych Prowincji Warszawskiej"
+
 markup: "mmark"
 ---
 

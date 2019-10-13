@@ -1,5 +1,6 @@
 ---
 title: "Świadectwa"
+description: "Świadectwa członków wspolnoty"
 ---
 
 ## Czym jest dla mnie Wspólnota… i bycie świeckim karmelitą!?

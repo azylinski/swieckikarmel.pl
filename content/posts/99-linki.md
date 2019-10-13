@@ -1,5 +1,6 @@
 ---
 title: "Linki"
+description: "Odnośniki do powiązanych witryn."
 ---
 
 * http://ocdswaw.org

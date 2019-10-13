@@ -1,5 +1,6 @@
 ---
 title: "Charyzmat"
+description: "Definicja i źródło charyzmatu karmelitańskiego."
 ---
 
 ## Charyzmat Karmelu

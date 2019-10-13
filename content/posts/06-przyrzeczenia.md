@@ -1,5 +1,6 @@
 ---
 title: "Przyrzeczenie"
+description: "Formuła przyrzeczeń."
 ---
 
 ## Formuła przyrzeczeń (pierwszych i definitywnych)

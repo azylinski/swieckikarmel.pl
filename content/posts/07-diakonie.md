@@ -1,5 +1,6 @@
 ---
 title: "Diakonie"
+description: "Lista diakonii działających we Wspólnocie."
 ---
 
 ## Diakonie
