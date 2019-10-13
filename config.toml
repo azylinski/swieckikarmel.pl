@@ -25,7 +25,7 @@ googleAnalytics = "UA-60769942-1"
       {name = "Formacja", url = "/formacja/", weight = 5},
       {name = "Przyrzeczenie", url = "/przyrzeczenie/", weight = 6},
       {name = "Diakonie", url = "/diakonie/", weight = 7},
-      {name = "Prośby o modlitwę", url = "mailto:gzylinska@wp.pl?subject=Prośba o modlitwę", weight = 8},
+      {name = "Prośby o modlitwę", url = "mailto:modlitwa@swieckikarmel.pl?subject=Prośba o modlitwę", weight = 8},
 
       {name = "Blog", url = "http://swieckikarmelsopot.blogspot.com/", weight = 90},
       {name = "Kontakt", url = "/kontakt/", weight = 91},
