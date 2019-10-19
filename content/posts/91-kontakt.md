@@ -6,7 +6,7 @@ description: "Miejsce, terminy i program spotkań."
 ## Kontakt
 
 Sopocka Wspólnota Świeckiego Zakonu Karmelitów Bosych \
-pod wezwaniem Św. Józefa Oblubieńca NMP
+pod wezwaniem św. Józefa Oblubieńca NMP
  
 
 #### Miejsce spotkań:
@@ -41,6 +41,5 @@ Osoby zainteresowane życiem w Świeckim Karmelu  zapraszamy na nasz comiesię
 
 Przewodnicząca Rady Wspólnoty \
 Gabriela Żylińska OCDS \
-[gzylinska@wp.pl](mailto:gzylinska@wp.pl) \
-+48 667 990 377 \
-po godzinie 20.00
+[gzylinska@gmail.com](mailto:gzylinska@gmail.com) \
++48 667 990 377

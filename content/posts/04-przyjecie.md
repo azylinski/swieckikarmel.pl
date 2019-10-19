@@ -45,10 +45,10 @@ Na podst. Statutu Świeckiego Zakonu Karmelitów Bosych Prowincji Warszawskiej
 
     p. przedłożyć aktualne świadectwo chrztu świętego z adnotacją o przyjętych sakramentach (w tym sakramentu bierzmowania) i o uzyskanych ewentualnie dyspensach,
 
-    q. w przypadku osób pozostających w związkach małżeńskich wymagana jest pisemna zgoda współmałżonka na przynależność do Świeckiego zakonu Karmelitów Bosych,
+    q. w przypadku osób pozostających w związkach małżeńskich wymagana jest pisemna zgoda współmałżonka na przynależność do Świeckiego Zakonu Karmelitów Bosych,
 
     r. rada wspólnoty OCDS, w razie konieczności, może skierować osobę, która pragnie być przyjęta, na konsultacje z psychologiem.
 
-5. W szczególnych okolicznościach, w w przypadku artykułu 4, punkt: a, k, l, r, rada wspólnoty, po konsultacji z przełożonym prowincjalnym lub jego delegatem, może uchylić określone w nich warunki.
+5. W szczególnych okolicznościach, w przypadku artykułu 4, punkt: a, k, l, r, rada wspólnoty, po konsultacji z przełożonym prowincjalnym lub jego delegatem, może uchylić określone w nich warunki.
 6. Przyjęcie do OCDS następuje po pewnym czasie kontaktu ze wspólnotą, zwanym okresem wstępnym, który trwa od 6 do 12 miesięcy. Rada wspólnoty OCDS w uzasadnionych przypadkach może przedłużyć ten okres do dwóch lat (K 36, 58).
 7. Przyjęcie do wspólnoty odbywa się, zgodnie z Rytuałem OCDS, poprzez nałożenie kandydatowi poświęconego, brązowego szkaplerza sukiennego, zazwyczaj o wymiarach 15 x 20 cm. Szkaplerz jako „Szata Maryi” stanowi zewnętrzny znak przynależności do Zakonu (K 36b). Przy tej okazji do imienia z chrztu świętego dodaje się predykat (wezwanie)

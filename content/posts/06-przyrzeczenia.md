@@ -1,5 +1,5 @@
 ---
-title: "Przyrzeczenie"
+title: "Przyrzeczenia"
 description: "Formuła przyrzeczeń."
 ---
 

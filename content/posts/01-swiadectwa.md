@@ -5,7 +5,7 @@ description: "Świadectwa członków wspolnoty"
 
 ## Czym jest dla mnie Wspólnota… i bycie świeckim karmelitą!?
 
-> „kiedyś myślałam, że moje życie się skończyło, że mogę być już tylko emerytką, żoną tego samego mężczyzny, raptem okazało się, że mogę być kimś jeszcze… a mianowicie świecką karmelitanką” (BB)
+> „kiedyś myślałam, że moje życie się skończyło, że mogę być już tylko emerytką, żoną tego samego mężczyzny, a tu raptem okazało się, że mogę być kimś jeszcze… a mianowicie świecką karmelitanką” (BB)
 
 &nbsp;
 
