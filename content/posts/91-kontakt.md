@@ -28,7 +28,7 @@ godz. 15:00
 * Konferencja O. Asystenta
 * Agapa
 
-Osoby zainteresowane życiem w Świeckim Karmelu  zapraszamy na nasz comiesięczny Dzień Wspólnoty.
+Osoby zainteresowane życiem w Świeckim Karmelu zapraszamy na nasz comiesięczny Dzień Wspólnoty.
 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9282.950403705627!2d18.567651!3d54.432266!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4c42789cff0e0148!2sKlasztor%20Karmelit%C3%B3w%20Bosych!5e0!3m2!1sen!2spl!4v1570902489967!5m2!1sen!2spl" width="800" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
@@ -40,6 +40,6 @@ Osoby zainteresowane życiem w Świeckim Karmelu  zapraszamy na nasz comiesię
 #### Informacje:
 
 Przewodnicząca Rady Wspólnoty \
-Gabriela Żylińska OCDS \
-[gzylinska@gmail.com](mailto:gzylinska@gmail.com) \
-+48 667 990 377
+Bożena Juszkiewicz-Bednarczyk \
+[bhjb@world.pl](mailto:bhjb@world.pl) \
++48 502 303 318

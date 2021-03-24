@@ -25,8 +25,9 @@ googleAnalytics = "UA-60769942-1"
       {name = "Formacja", url = "/formacja/", weight = 4},
       {name = "Formuła przyrzeczeń", url = "/przyrzeczenia/", weight = 5},
       {name = "Diakonie", url = "/diakonie/", weight = 6},
-      {name = "Świadectwa", url = "/świadectwa/", weight = 7},
-      {name = "Prośby o modlitwę", url = "mailto:modlitwa@swieckikarmel.pl?subject=Prośba o modlitwę", weight = 8},
+      {name = "Relikwie wspólnotowe", url = "/relikwie-wspolnotowe/", weight = 7},
+      {name = "Świadectwa", url = "/świadectwa/", weight = 8},
+      {name = "Prośby o modlitwę", url = "mailto:modlitwa@swieckikarmel.pl?subject=Prośba o modlitwę", weight = 9},
 
       {name = "Blog", url = "http://swieckikarmelsopot.blogspot.com/", weight = 90},
       {name = "Kontakt", url = "/kontakt/", weight = 91},
