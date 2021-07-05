@@ -40,6 +40,6 @@ Osoby zainteresowane życiem w Świeckim Karmelu zapraszamy na nasz comiesięczn
 #### Informacje:
 
 Przewodnicząca Rady Wspólnoty \
-Bożena Juszkiewicz-Bednarczyk \
-[bhjb@world.pl](mailto:bhjb@world.pl) \
-+48 502 303 318
+Elżbieta Gojtowska \
+[gojtowska@interia.pl](mailto:gojtowska@interia.pl) \
++48 506 405 927
