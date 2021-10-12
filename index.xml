@@ -1,122 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Świecki Karmel Sopot</title>
-    <link>https://swieckikarmel.pl/</link>
-    <description>Recent content on Świecki Karmel Sopot</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pl-PL</language>
-    
-	<atom:link href="https://swieckikarmel.pl/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Charyzmat</title>
-      <link>https://swieckikarmel.pl/charyzmat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://swieckikarmel.pl/charyzmat/</guid>
-      <description>Charyzmat Karmelu Termin charyzmat (z gr. χάρισμα /chárisma/ – „łaska” lub „bezinteresowny dar”) stosowany w chrześcijaństwie oznacza dary Ducha Świętego służące zbudowaniu Kościoła, zaś Katechizm Kościoła Katolickiego stwierdza: „Charyzmaty, zarówno nadzwyczajne, jak również proste i zwyczajne, są łaskami Ducha Świętego, bezpośrednio lub pośrednio służącymi Kościołowi (KKK 799).
-Pomagają one wiernym w sposób pełniejszy i łatwiejszy realizować życie chrześcijańskie – wskazują im właściwe drogi, sposoby, warunki i konkretne metody do doskonałości ewangelicznej.</description>
-    </item>
-    
-    <item>
-      <title>Diakonie</title>
-      <link>https://swieckikarmel.pl/diakonie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://swieckikarmel.pl/diakonie/</guid>
-      <description> Diakonie Diakonie działające we Wspólnocie od dnia 12.11.2017r.:
- d. muzyczna d. chorych d. powołaniowa d. modlitewna (pogotowie modlitewne) d. liturgiczna d. misyjna d. poradnictwa rodzinnego d. pielgrzymkowo-rekreacyjna d. porządkowa d. ofiarniczo-wstawiennicza d. podręcznika formacyjnego  </description>
-    </item>
-    
-    <item>
-      <title>Formacja</title>
-      <link>https://swieckikarmel.pl/formacja/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://swieckikarmel.pl/formacja/</guid>
-      <description>Formacja  Okresy Zasady Program  Okresy formacji wstępny – od przyjścia do przyjęcia do Wspólnoty, trwający od 6 do 12 miesięcy, z zachowaniem art. 6. „Przyjęcie do OCDS następuje po pewnym czasie kontaktu ze wspólnotą, zwanym okresem wstępnym, który trwa od 6 do 12 miesięcy. Rada wspólnoty OCDS w uzasadnionych przypadkach może przedłużyć ten okres do dwóch lat (K 36, 58)
-pierwszy – od przyjęcia do wspólnoty do pierwszych przyrzeczeń, trwający dwa lata, z zachowaniem art.</description>
-    </item>
-    
-    <item>
-      <title>Kontakt</title>
-      <link>https://swieckikarmel.pl/kontakt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://swieckikarmel.pl/kontakt/</guid>
-      <description>Kontakt Sopocka Wspólnota Świeckiego Zakonu Karmelitów Bosych pod wezwaniem św. Józefa Oblubieńca NMP
-Miejsce spotkań: Klasztor OO. Karmelitów Bosych, Sopot-Wyścigi, ul. Głowackiego 3
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Świecki Karmel Sopot</title><link>https://swieckikarmel.pl/</link><description>Recent content on Świecki Karmel Sopot</description><generator>Hugo -- gohugo.io</generator><language>pl-PL</language><atom:link href="https://swieckikarmel.pl/index.xml" rel="self" type="application/rss+xml"/><item><title>Charyzmat</title><link>https://swieckikarmel.pl/charyzmat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://swieckikarmel.pl/charyzmat/</guid><description>Charyzmat Karmelu Termin charyzmat (z gr. χάρισμα /chárisma/ – „łaska” lub „bezinteresowny dar”) stosowany w chrześcijaństwie oznacza dary Ducha Świętego służące zbudowaniu Kościoła, zaś Katechizm Kościoła Katolickiego stwierdza: „Charyzmaty, zarówno nadzwyczajne, jak również proste i zwyczajne, są łaskami Ducha Świętego, bezpośrednio lub pośrednio służącymi Kościołowi (KKK 799).
+Pomagają one wiernym w sposób pełniejszy i łatwiejszy realizować życie chrześcijańskie – wskazują im właściwe drogi, sposoby, warunki i konkretne metody do doskonałości ewangelicznej.</description></item><item><title>Diakonie</title><link>https://swieckikarmel.pl/diakonie/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://swieckikarmel.pl/diakonie/</guid><description>Diakonie Diakonie działające we Wspólnocie od dnia 12.11.2017r.:
+d. muzyczna d. chorych d. powołaniowa d. modlitewna (pogotowie modlitewne) d. liturgiczna d. misyjna d. poradnictwa rodzinnego d. pielgrzymkowo-rekreacyjna d. porządkowa d. ofiarniczo-wstawiennicza d. podręcznika formacyjnego</description></item><item><title>Formacja</title><link>https://swieckikarmel.pl/formacja/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://swieckikarmel.pl/formacja/</guid><description>Formacja Okresy Zasady Program Okresy formacji wstępny – od przyjścia do przyjęcia do Wspólnoty, trwający od 6 do 12 miesięcy, z zachowaniem art. 6. „Przyjęcie do OCDS następuje po pewnym czasie kontaktu ze wspólnotą, zwanym okresem wstępnym, który trwa od 6 do 12 miesięcy. Rada wspólnoty OCDS w uzasadnionych przypadkach może przedłużyć ten okres do dwóch lat (K 36, 58)
+pierwszy – od przyjęcia do wspólnoty do pierwszych przyrzeczeń, trwający dwa lata, z zachowaniem art.</description></item><item><title>Kontakt</title><link>https://swieckikarmel.pl/kontakt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://swieckikarmel.pl/kontakt/</guid><description>Kontakt Sopocka Wspólnota Świeckiego Zakonu Karmelitów Bosych
+pod wezwaniem św. Józefa Oblubieńca NMP
+Miejsce spotkań: Klasztor OO. Karmelitów Bosych,
+Sopot-Wyścigi, ul. Głowackiego 3
 Termin spotkań: każda 2. niedziela miesiąca (oprócz lipca i sierpnia)
 Czas i program spotkań: godz. 15:00
- Adoracja Najświętszego Sakramentu Eucharystia Nieszpory Konferencja O. Asystenta Agapa  Osoby zainteresowane życiem w Świeckim Karmelu zapraszamy na nasz comiesięczny Dzień Wspólnoty.
- &amp;nbsp;
-&amp;nbsp;
-Informacje: Przewodnicząca Rady Wspólnoty Elżbieta Gojtowska gojtowskaelzbieta@gmail.</description>
-    </item>
-    
-    <item>
-      <title>Linki</title>
-      <link>https://swieckikarmel.pl/linki/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://swieckikarmel.pl/linki/</guid>
-      <description> https://www.ocds.pl/ https://sopot.karmelicibosi.pl/o-instytucie/ http://www.floscarmeli.pl http://karmel.pl http://www.brewiarz.pl  </description>
-    </item>
-    
-    <item>
-      <title>Powołanie</title>
-      <link>https://swieckikarmel.pl/powo%C5%82anie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://swieckikarmel.pl/powo%C5%82anie/</guid>
-      <description>Kryteria służące do rozeznania powołania frag. z „Ratio Institutionis”
+Adoracja Najświętszego Sakramentu Eucharystia Nieszpory Konferencja O. Asystenta Agapa Osoby zainteresowane życiem w Świeckim Karmelu zapraszamy na nasz comiesięczny Dzień Wspólnoty.
+  Informacje: Przewodnicząca Rady Wspólnoty
+Elżbieta Gojtowska</description></item><item><title>Linki</title><link>https://swieckikarmel.pl/linki/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://swieckikarmel.pl/linki/</guid><description> https://www.ocds.pl/ https://sopot.karmelicibosi.pl/o-instytucie/ http://www.floscarmeli.pl http://karmel.pl http://www.brewiarz.pl</description></item><item><title>Powołanie</title><link>https://swieckikarmel.pl/powo%C5%82anie/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://swieckikarmel.pl/powo%C5%82anie/</guid><description>Kryteria służące do rozeznania powołania frag. z „Ratio Institutionis”
 Rozeznać powołanie to, innymi słowy, upewnić się co do woli Bożej wobec danej osoby; stwierdzić, że „Bóg ją prowadzi”. W tym rozeznawaniu należy kierować się następującymi zasadami:
- Bóg nie ukrywa się przed nami, raczej nam się objawia; Bóg respektuje dar wolnej woli, którą zostaliśmy obdarzeni; życie ludzkie wiąże się z odpowiedzialnością, to jest z wolnością odpowiedzi.  W procesie rozeznania biorą czynny udział trzy podmioty: Bóg, kandydat i zespół osób odpowiedzialnych za formację.</description>
-    </item>
-    
-    <item>
-      <title>Przyjęcie</title>
-      <link>https://swieckikarmel.pl/przyj%C4%99cie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://swieckikarmel.pl/przyj%C4%99cie/</guid>
-      <description>Na podst. Statutu Świeckiego Zakonu Karmelitów Bosych Prowincji Warszawskiej
+Bóg nie ukrywa się przed nami, raczej nam się objawia; Bóg respektuje dar wolnej woli, którą zostaliśmy obdarzeni; życie ludzkie wiąże się z odpowiedzialnością, to jest z wolnością odpowiedzi. W procesie rozeznania biorą czynny udział trzy podmioty: Bóg, kandydat i zespół osób odpowiedzialnych za formację.</description></item><item><title>Przyjęcie</title><link>https://swieckikarmel.pl/przyj%C4%99cie/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://swieckikarmel.pl/przyj%C4%99cie/</guid><description>Na podst. Statutu Świeckiego Zakonu Karmelitów Bosych Prowincji Warszawskiej
 II. Przyjęcie do Świeckiego Zakonu Członkiem zwyczajnym Świeckiego Zakonu Karmelitów Bosych, zwanym dalej członkiem wspólnoty OCDS, może zostać osoba praktykująca, należąca do Kościoła katolickiego, w pełni uczestnicząca w życiu sakramentalnym oraz świadomie przyjmująca Prawo własne Świeckiego Zakonu. Warunki przyjęcia. Kandydat do OCDS powinien spełniać poniższe warunki:
 a. być pomiędzy 18. a 55. rokiem życia,
-b. posiadać odpowiedni stopień dojrzałości duchowej, intelektualnej i emocjonalnej (K 34),</description>
-    </item>
-    
-    <item>
-      <title>Przyrzeczenia</title>
-      <link>https://swieckikarmel.pl/przyrzeczenia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://swieckikarmel.pl/przyrzeczenia/</guid>
-      <description>Formuła przyrzeczeń (pierwszych i definitywnych) Ja NN. - idąc za łaską Ducha Świętego – w odpowiedzi na powołanie Boże – szczerym sercem przyrzekam przełożonym Zakonu Karmelu Terezjańskiego – i wam, moi bracia i siostry – dążyć do doskonałości ewangelicznej – w duchu rad ewangelicznych – czystości, ubóstwa i posłuszeństwa oraz błogosławieństw – według Konstytucji Świeckiego Zakonu Karmelitów Bosych – na trzy lata (na całe życie). Moje przyrzeczenie – z dziecięcą ufnością – zawierzam Najświętszej Dziewicy Maryi – Matce i Królowej Karmelu.</description>
-    </item>
-    
-    <item>
-      <title>Relikwie wspólnotowe</title>
-      <link>https://swieckikarmel.pl/relikwie-wspolnotowe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://swieckikarmel.pl/relikwie-wspolnotowe/</guid>
-      <description>Wspólnota Sopocka ma relikwie św. Jana od Krzyża i św. Rafała Kalinowskiego. Relikwie św. Jana (wraz z certyfikatem autentyczności) zostały Wspólnocie przekazane przez Marię Biernacką OCDS (ówczesną przewodniczącą prowincjalną) w dniu odczytania Aktu Erygującego Wspólnotę (9 października 2005 roku). Na uroczystości był obecny delegat prowincjalny Świeckiego Zakonu Karmelitów Bosych Prowincji Warszawskiej, o. Stanisław Plewa OCD.
-Tego też dnia, po przedstawieniu sprawozdania z działalności Wspólnoty i zatwierdzeniu go przez władze Zakonu, odbyły się pierwsze w historii Wspólnoty wybory Rady Wspólnoty.</description>
-    </item>
-    
-    <item>
-      <title>Świadectwa</title>
-      <link>https://swieckikarmel.pl/%C5%9Bwiadectwa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://swieckikarmel.pl/%C5%9Bwiadectwa/</guid>
-      <description>Czym jest dla mnie Wspólnota… i bycie świeckim karmelitą!?  „kiedyś myślałam, że moje życie się skończyło, że mogę być już tylko emerytką, żoną tego samego mężczyzny, a tu raptem okazało się, że mogę być kimś jeszcze… a mianowicie świecką karmelitanką” (BB)
- &amp;nbsp;
- „… od dawna dziękczynienie przelewa się przez moje serce. Jakiś czas temu kapłan na spowiedzi powiedział mi, że to Wielka Łaska zostać świeckim karmelitą bosym i mieć udział w charyzmacie Zakonu Karmelitów Bosych.</description>
-    </item>
-    
-  </channel>
-</rss>
+b. posiadać odpowiedni stopień dojrzałości duchowej, intelektualnej i emocjonalnej (K 34),</description></item><item><title>Przyrzeczenia</title><link>https://swieckikarmel.pl/przyrzeczenia/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://swieckikarmel.pl/przyrzeczenia/</guid><description>Formuła przyrzeczeń (pierwszych i definitywnych) Ja NN. - idąc za łaską Ducha Świętego – w odpowiedzi na powołanie Boże – szczerym sercem przyrzekam przełożonym Zakonu Karmelu Terezjańskiego – i wam, moi bracia i siostry – dążyć do doskonałości ewangelicznej – w duchu rad ewangelicznych – czystości, ubóstwa i posłuszeństwa oraz błogosławieństw – według Konstytucji Świeckiego Zakonu Karmelitów Bosych – na trzy lata (na całe życie). Moje przyrzeczenie – z dziecięcą ufnością – zawierzam Najświętszej Dziewicy Maryi – Matce i Królowej Karmelu.</description></item><item><title>Relikwie wspólnotowe</title><link>https://swieckikarmel.pl/relikwie-wspolnotowe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://swieckikarmel.pl/relikwie-wspolnotowe/</guid><description>Wspólnota Sopocka ma relikwie św. Jana od Krzyża i św. Rafała Kalinowskiego. Relikwie św. Jana (wraz z certyfikatem autentyczności) zostały Wspólnocie przekazane przez Marię Biernacką OCDS (ówczesną przewodniczącą prowincjalną) w dniu odczytania Aktu Erygującego Wspólnotę (9 października 2005 roku). Na uroczystości był obecny delegat prowincjalny Świeckiego Zakonu Karmelitów Bosych Prowincji Warszawskiej, o. Stanisław Plewa OCD.
+Tego też dnia, po przedstawieniu sprawozdania z działalności Wspólnoty i zatwierdzeniu go przez władze Zakonu, odbyły się pierwsze w historii Wspólnoty wybory Rady Wspólnoty.</description></item><item><title>Świadectwa</title><link>https://swieckikarmel.pl/%C5%9Bwiadectwa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://swieckikarmel.pl/%C5%9Bwiadectwa/</guid><description>Czym jest dla mnie Wspólnota… i bycie świeckim karmelitą!? „kiedyś myślałam, że moje życie się skończyło, że mogę być już tylko emerytką, żoną tego samego mężczyzny, a tu raptem okazało się, że mogę być kimś jeszcze… a mianowicie świecką karmelitanką” (BB)
+  „… od dawna dziękczynienie przelewa się przez moje serce. Jakiś czas temu kapłan na spowiedzi powiedział mi, że to Wielka Łaska zostać świeckim karmelitą bosym i mieć udział w charyzmacie Zakonu Karmelitów Bosych.</description></item></channel></rss>
