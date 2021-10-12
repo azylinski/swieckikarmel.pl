@@ -26,4 +26,4 @@ Myślę, że większość z nas doświadcza łaski niezasłużonego a jednocześ
 
 &nbsp;
 
-> „Wspólnota uczy samodyscypliny duchowej” (XYZ)
+> „Wspólnota uczy samodyscypliny duchowej” (XY)
