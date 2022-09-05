@@ -42,4 +42,4 @@ Osoby zainteresowane życiem w Świeckim Karmelu zapraszamy na nasz comiesięczn
 Przewodnicząca Rady Wspólnoty \
 Elżbieta Gojtowska \
 [gojtowskaelzbieta@gmail.com](mailto:gojtowskaelzbieta@gmail.com) \
-tel.: +48 506 405 927
+tel.: +48 506 405 924
