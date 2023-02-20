@@ -49,7 +49,7 @@ Zadania, które podejmujemy (wspólnotowo lub indywidualnie):
 9. odmawianie oficjum za ZMARŁYCH ze Wspólnoty i z całej Rodziny Karmelitańskiej w każdy 1. wtorek m-ca (a jeśli Kalendarz Liturgiczny na to nie zezwala, to w pierwszym możliwym terminie), a we wspomnienie Wszystkich Zmarłych Zakonu Karmelitańskiego (15 listopada) ofiarowanie w ich intencji Komunii św.; ponadto zamówienie intencji mszalnych za zmarłych z naszej Wspólnoty oraz za wszystkich zmarłych członków OCDS (zgodnie ze Statutem VIII, 39-41);
 10. zawierzanie Bogu i Matce Najświętszej naszych trosk dnia codziennego,  członków naszej  Wspólnoty (zgodnie z wylosowaną kartką) a także Bliskich, Karmelu Terezjańskiego i całego Kościoła, posługując modlitwą wstawienniczą za siebie nawzajem i sprawy świata (dwa Pogotowia Modlitewne i mailowa skrzynka intencji, a także indywidualne prośby skierowane do Wspólnoty);
 11. pomoc chorym i potrzebującym, zwłaszcza z naszej Wspólnoty;
-12. patronat misyjny Wspólnoty nad o. Arkadiuszem Kulachą OCD;
+12. patronat misyjny Wspólnoty nad o. Arkadiuszem Kulachą OCD.
 
 
 W miarę możliwości zachęcamy do udziału w następujących przedsięwzięciach: 
