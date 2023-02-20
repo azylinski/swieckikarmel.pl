@@ -18,6 +18,8 @@ Przywitaliśmy je oficjalnie (w nowym relikwiarzu) dopiero 8.10.2017r.
 
 Relikwie odnaleziono w celi o. Jozafata, który przez większość życia zakonnego był w Łodzi, umarł zaś w Sopocie 22 lutego 2002 roku, a porządkujący jego celę Ojcowie przekazali je nam.
 
+W uroczystość Trójcy Świętej 12.06.2022, czyli w patronalne święto Prowincji Warszawskiej OCDS, o. Jan Malicki - Prowincjał przekazał Wspólnocie, za pośrednictwem o. Bertolda Dąbkowskiego – naszego obecnego o. Asystenta, relikwie Świętej z Lisieux wraz z certyfikatem. 8.01.2023 relikwie zostały umieszczone w relikwiarzu i uroczyście przyjęte przez Wspólnotę.
+
 ![Relikwie św. Rafała](/img/relikwie-sw-Rafala.jpg)
 ![Relikwie św. Jana od Krzyża](/img/relikwie-sw-Jana-od-Krzyza.jpg)
 ![Relikwie św. Jana od Krzyża (zbliżenie)](/img/relikwie-sw-Jana-od-Krzyza_zoom.jpg)
