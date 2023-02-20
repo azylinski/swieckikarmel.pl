@@ -66,9 +66,10 @@ W miarę możliwości zachęcamy do udziału w następujących przedsięwzięcia
 
 Niniejszy program został przyjęty przez Radę Współnoty w dniu 7.01.2023 r.
 
-Pogotowie modlitewne 1: Jadwiga Z., tel. 515-771-980
-Pogotowie modlitewne 2: Elżbieta K., tel. 604-382-808
+Pogotowie modlitewne 1: Jadwiga Z., tel.: 515-771-980
 
-Przewodnicząca: Elżbieta Gojtowska, gojtowskaelzbieta@gmail.com
+Pogotowie modlitewne 2: Elżbieta K., tel.: 604-382-808
+
+Przewodnicząca: Elżbieta Gojtowska, gojtowskaelzbieta@gmail.com, tel.: 506-405-924
 
 
