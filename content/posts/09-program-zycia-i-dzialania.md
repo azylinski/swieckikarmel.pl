@@ -1,12 +1,14 @@
 ---
 slug: "program-zycia-i-dzialania"
-title: "Program życia i działania Wspólnoty OCDS"
-description: "Program życia i działania Wspólnoty OCDS na Rok 2023"
+title: "Program życia i działania Wspólnoty OCDS pw. św. Józefa Oblubieńca NMP erygowanej przy klasztorze oo. Karmelitów Bosych w Sopocie"
+description: "Program życia i działania Wspólnoty OCDS na Rok 2023 pw. św. Józefa Oblubieńca NMP erygowanej przy klasztorze oo. Karmelitów Bosych w Sopocie"
 ---
 
 ### Program życia i działania Wspólnoty OCDS na Rok 2023
 pw. św. Józefa Oblubieńca NMP erygowanej przy klasztorze oo. Karmelitów Bosych w Sopocie
+
 rok 150. rocznicy urodzin św. Teresy od Dzieciątka Jezus i 100. rocznicy jej beatyfikacji,
+
 a także rok duszparsterski pod hasłem "Wierzę w Kościół Chrystusowy"
 
 Relikwie św. Jana (wraz z certyfikatem autentyczności) zostały W
