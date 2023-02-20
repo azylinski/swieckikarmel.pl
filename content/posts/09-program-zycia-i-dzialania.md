@@ -5,7 +5,7 @@ description: "Program życia i działania Wspólnoty OCDS na Rok 2023 pw. św. J
 ---
 
 ### Program życia i działania Wspólnoty OCDS na Rok 2023
-pw. św. Józefa Oblubieńca NMP erygowanej przy klasztorze oo. Karmelitów Bosych w Sopocie
+### pw. św. Józefa Oblubieńca NMP erygowanej przy klasztorze oo. Karmelitów Bosych w Sopocie
 
 rok 150. rocznicy urodzin św. Teresy od Dzieciątka Jezus i 100. rocznicy jej beatyfikacji,
 
