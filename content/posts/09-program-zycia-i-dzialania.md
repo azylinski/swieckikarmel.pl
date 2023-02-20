@@ -53,6 +53,8 @@ Zadania, które podejmujemy (wspólnotowo lub indywidualnie):
 
 
 W miarę możliwości zachęcamy do udziału w następujących przedsięwzięciach: 
+
+
 13. prowincjalne comiesięczne (wirtualne) Lectio divina prowadzone przez o. Roberta Marciniaka OCD w każdy pierwszy piątek miesiąca;
 14. czuwanie modlitewne przed Uroczystością Zesłania Ducha Świętego, 27 maja, w kaplicy ss. Karmelitanek Bosych w Gdyni-Orłowie lub w innym kościele;
 15. pielgrzymka do Sanktuarium w Zamartem na wieczorne czuwanie modlitewne oraz liturgiczne obchody uroczystości Matki Bożej Szkaplerznej dla uczczenia Matki Bożej z Góry Karmel (sobota, 1 lipca);
