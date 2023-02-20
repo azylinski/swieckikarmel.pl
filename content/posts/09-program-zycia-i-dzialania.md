@@ -1,10 +1,10 @@
 ---
 slug: "program-zycia-i-dzialania"
 title: "Program życia i działania Wspólnoty OCDS"
-description: "Program życia i działania Wspólnoty OCDS - miejsce na opis"
+description: "Program życia i działania Wspólnoty OCDS"
 ---
 
-### Program życia i działania Wspólnoty OCDS - miejsce na tytuł.
+### Program życia i działania Wspólnoty OCDS
 
 Relikwie św. Jana (wraz z certyfikatem autentyczności) zostały Wspólnocie przekazane przez Marię Biernacką OCDS (ówczesną przewodniczącą prowincjalną) w dniu odczytania Aktu Erygującego Wspólnotę (9 października 2005 roku). Na uroczystości był obecny delegat prowincjalny Świeckiego Zakonu Karmelitów Bosych Prowincji Warszawskiej, o. Stanisław Plewa OCD. 
 
