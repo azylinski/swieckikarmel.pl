@@ -21,3 +21,5 @@ Relikwie odnaleziono w celi o. Jozafata, który przez większość życia zakonn
 ![Relikwie św. Rafała](/img/relikwie-sw-Rafala.jpg)
 ![Relikwie św. Jana od Krzyża](/img/relikwie-sw-Jana-od-Krzyza.jpg)
 ![Relikwie św. Jana od Krzyża (zbliżenie)](/img/relikwie-sw-Jana-od-Krzyza_zoom.jpg)
+![Relikwie](/img/pziw-relikwie.jpg)
+![Certyfikat](/img/pziw-certyfikat.jpg)
