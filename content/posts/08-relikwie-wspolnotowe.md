@@ -1,10 +1,10 @@
 ---
 slug: "relikwie-wspolnotowe"
 title: "Relikwie wspólnotowe"
-description: "Wspólnota Sopocka ma relikwie św. Jana od Krzyża i św. Rafała Kalinowskiego i św. Teresy od Dzieciątka Jezus."
+description: "Wspólnota Sopocka ma relikwie św. Jana od Krzyża, św. Rafała Kalinowskiego i św. Teresy od Dzieciątka Jezus."
 ---
 
-### Wspólnota Sopocka ma relikwie św. Jana od Krzyża i św. Rafała Kalinowskiego i św. Teresy od Dzieciątka Jezus.
+### Wspólnota Sopocka ma relikwie św. Jana od Krzyża, św. Rafała Kalinowskiego i św. Teresy od Dzieciątka Jezus.
 
 Relikwie św. Jana (wraz z certyfikatem autentyczności) zostały Wspólnocie przekazane przez Marię Biernacką OCDS (ówczesną przewodniczącą prowincjalną) w dniu odczytania Aktu Erygującego Wspólnotę (9 października 2005 roku). Na uroczystości był obecny delegat prowincjalny Świeckiego Zakonu Karmelitów Bosych Prowincji Warszawskiej, o. Stanisław Plewa OCD. 
 
