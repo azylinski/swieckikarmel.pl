@@ -5,12 +5,12 @@ description: "Lista diakonii działających we Wspólnocie."
 
 ## Diakonie
 
-Diakonie działające we Wspólnocie od dnia 12.11.2017r.:
+Diakonie działające we Wspólnocie od dnia 27.06.2021 r.:
 
 * d. muzyczna
 * d. chorych
 * d. powołaniowa
-* d. modlitewna (Pogotowie modlitewne 1, Pogotowie modlitewne 2)
+* d. modlitewna (dwa Pogotowia Modlitewne)
 * d. liturgiczna
 * d. misyjna
 * d. pielgrzymkowo-rekreacyjna
