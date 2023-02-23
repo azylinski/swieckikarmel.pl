@@ -13,21 +13,23 @@ description: "Formacja zakonu. Okresy, zasady i program."
 
 ### Okresy formacji
 
-#### wstępny – od przyjścia do przyjęcia do Wspólnoty, trwający od 6 do 12 miesięcy, z zachowaniem art. 6. 
+#### wstępny – od momentu rozpoczęcia formacji, trwający 8 mies., zakończony przyjęciem do wspólnoty, z zachowaniem art. 9. 
 
-„Przyjęcie do OCDS następuje po pewnym czasie kontaktu ze wspólnotą, zwanym okresem wstępnym, który trwa od 6 do 12 miesięcy. Rada wspólnoty OCDS w uzasadnionych przypadkach może przedłużyć ten okres do dwóch lat (K 36, 58)
+Rada wspólnoty w uzasadnionych przypadkach może przedłużyć wstępny okres formacji, nie dłużej jednak niż na kolejne osiem miesięcy.
 
 #### pierwszy – od przyjęcia do wspólnoty do pierwszych przyrzeczeń, trwający dwa lata, z zachowaniem art. 9;
 
-Rada wspólnoty w uzasadnionych przypadkach może przedłużyć pierwszy okres formacji, nie dłużej jednak niż na kolejne dwa lata. Również sam formowany może wystąpić do rady wspólnoty o przedłużenie pierwszego okresu formacji, nie dłużej jednak niż na dwa lata
+Rada wspólnoty w uzasadnionych przypadkach może przedłużyć pierwszy okres formacji (do przyrzeczeń czasowych), nie dłużej jednak niż na kolejne dwa lata.
 
-#### drugi – od pierwszych przyrzeczeń do przyrzeczeń definitywnych, trwający trzy lata, z zachowaniem art. 9;
+#### drugi – od przyrzeczeń czasowych do definitywnych, trwający trzy lata, z zachowaniem art. 9,
 
-Rada wspólnoty w uzasadnionych przypadkach może przedłużyć drugi okres formacji, nie dłużej jednak niż na kolejne trzy lata. Również sam formowany może wystąpić do rady wspólnoty o przedłużenie drugiego okresu formacji, nie dłużej jednak niż na trzy lata
+Rada wspólnoty w uzasadnionych przypadkach może przedłużyć drugi okres formacji (do przyrzeczeń definitywnych), nie dłużej jednak niż na kolejne trzy lata. 
+
+Również sam formowany może wystąpić do rady wspólnoty o przedłużenie każdego okresu formacji z zastrzeżeniem jak wyżej. Po upływie okresu, na który zostały złożone przyrzeczenia ustaje członkostwo w Zakonie. By je zachować, należy przed wygaśnięciem przyrzeczeń (nie później jednak niż na 2 miesiące przed tym terminem) złożyć pisemną prośbę do rady wspólnoty. Niezłożenie prośby jest równoznaczne z rezygnacją z dalszej formacji, a zarazem z utratą członkowstwa w OCDS.
 
 #### okres formacji ciągłej
 
-art. 13: „Po złożeniu przyrzeczeń definitywnych, członek wspólnoty OCDS podlega ciągłej formacji według programu zatwierdzonego przez przełożonego prowincjalnego lub jego delegata w porozumieniu z radą prowincjalną OCDS."
+Po złożeniu przyrzeczeń definitywnych, członek wspólnoty OCDS podlega ciągłej formacji według programu zatwierdzonego przez przełożonego prowincjalnego (lub jego delegata prowincjalnego) w porozumieniu z radą prowincjalną OCDS."
 
 ---
 
