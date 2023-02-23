@@ -25,30 +25,31 @@ Na podst. Statutu Świeckiego Zakonu Karmelitów Bosych Prowincji Warszawskiej
 
     f. żyć swoim powołaniem chrzcielnym, ze szczerym pragnieniem dążenia do świętości, w duchu charyzmatu kontemplacyjno-apostolskiego Karmelu,
 
-    g. posiadać świadomość obowiązku regularnego brania udziału w życiu Karmelu i umieć pogodzić ten wymóg z obowiązkami swego stanu,
+    g. posiadać świadomość obowiązku regularnego brania udziału w życiu wspólnoty, bycia otwartym na przyjmowanie zadań i funkcji w niej oraz umieć pogodzić ten wymóg z obowiązkami swego stanu,
+    h. byc otwartym na formacjęi spragnionym zgłębiania Pisma Św., nauczania Kościoła oraz tekstów świetych karmelitańskich,
 
-    h. mieć pełną możliwość korzystania z życia sakramentalnego,
+    i. mieć pełną możliwość korzystania z życia sakramentalnego,
 
-    i. nie żyć w związku niesakramentalnym,
+    j. nie żyć w związku niesakramentalnym,
 
-    j. nie należeć do stanu dziewic, nie być pustelnikiem, nie być wdową lub wdowcem konsekrowanym,
+    k. nie należeć do stanu dziewic, nie być pustelnikiem, nie być wdową lub wdowcem konsekrowanym,
 
-    k. nie być członkiem wspólnoty kościelnej o innej duchowości i formacji,
+    l. nie być członkiem wspólnoty kościelnej o innej duchowości i formacji,
 
-    l. nie przyjmować kierowniczej funkcji w stowarzyszeniu kościelnym,
+    ł. nie przyjmować kierowniczej funkcji w stowarzyszeniu kościelnym,
 
     m. odbyć rozmowę z radą wspólnoty OCDS i asystentem,
 
     n. złożyć pisemną prośbę o przyjęcie do wspólnoty OCDS,
 
-    o. złożyć życiorys uwzględniający życie religijne i stan cywilny,
+    o. przedstawić życiorys uwzględniający życie religijne i stan cywilny,
 
     p. przedłożyć aktualne świadectwo chrztu świętego z adnotacją o przyjętych sakramentach (w tym sakramentu bierzmowania) i o uzyskanych ewentualnie dyspensach,
 
     q. w przypadku osób pozostających w związkach małżeńskich wymagana jest pisemna zgoda współmałżonka na przynależność do Świeckiego Zakonu Karmelitów Bosych,
 
-    r. rada wspólnoty OCDS, w razie konieczności, może skierować osobę, która pragnie być przyjęta, na konsultacje z psychologiem.
+    r. rada wspólnoty, w razie konieczności, może skierować osobę, która pragnie być przyjęta, na konsultacje z psychologiem.
 
-5. W szczególnych okolicznościach, w przypadku artykułu 4, punkt: a, k, l, r, rada wspólnoty, po konsultacji z przełożonym prowincjalnym lub jego delegatem, może uchylić określone w nich warunki.
-6. Przyjęcie do OCDS następuje po pewnym czasie kontaktu ze wspólnotą, zwanym okresem wstępnym, który trwa od 6 do 12 miesięcy. Rada wspólnoty OCDS w uzasadnionych przypadkach może przedłużyć ten okres do dwóch lat (K 36, 58).
-7. Przyjęcie do wspólnoty odbywa się, zgodnie z Rytuałem OCDS, poprzez nałożenie kandydatowi poświęconego, brązowego szkaplerza sukiennego, zazwyczaj o wymiarach 15 x 20 cm. Szkaplerz jako „Szata Maryi” stanowi zewnętrzny znak przynależności do Zakonu (K 36b). Przy tej okazji do imienia z chrztu świętego dodaje się predykat (wezwanie)
+5. W szczególnych okolicznościach, w przypadku artykułu 4, punkt: a, l, ł, q rada wspólnoty, po konsultacji z przełożonym prowincjalnym (lub delegatem prowincjalnym), może uchylić określone w nich warunki. Sama rada może udzielić dyspensy od wieku (4a) kandydatowi do 60. roku zycia, później wymagana jest zgoda delegata prowincjalnego.
+6. Przyjęcie do OCDS następuje po pewnym okresie kontaktu ze wspólnotą, w którym kandydat zapoznaje się z jej członkami, sposobem życia i służbą Kościołowi (trwającym od 6 do 12 miesięcy) oraz po odbyciu formacji wstępnej, w czasie której regularnie spotyka się z formatorem i realizuje osiem pierwszych tematów formacyjnych (K 58). W przypadku osób mieszkających w znacznej odległości od miejsca spotkań wspólnoty, zasady przyjęcia, czas poprzedzający rozpoczęcie formacji, sposób jej prowadzenia oraz częstotliwość, a także rodzaj kontaktu ze wspólnotą (K 8b) określi rada wspólnoty po konsultacji z przełożonym prowincjalnym (lub delegatem prowincjalnym).
+7. Przyjęcie do wspólnoty odbywa się, zgodnie z Rytuałem OCDS, poprzez nałożenie kandydatowi poświęconego, materiałowego, brązowego szkaplerza, który jako „Szata Maryi” stanowi zewnętrzny znak przynależności do Zakonu (K 36b). Przy tej okazji do imienia z chrztu świętego dodaje się predykat (wezwanie).
