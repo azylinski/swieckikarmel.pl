@@ -16,7 +16,7 @@ Sopot-Wyścigi, ul. Głowackiego 3
 
 #### Termin spotkań:
 
-każda 2. niedziela miesiąca (oprócz lipca i sierpnia)
+wg Programu życia i działania
 
 #### Czas i program spotkań:
 
