@@ -25,3 +25,4 @@ W uroczystość Trójcy Świętej 12.06.2022, czyli w patronalne święto Prowin
 ![Relikwie św. Jana od Krzyża (zbliżenie)](/img/relikwie-sw-Jana-od-Krzyza_zoom.jpg)
 ![Relikwie](/img/pziw-relikwie.jpg)
 ![Certyfikat](/img/pziw-certyfikat.jpg)
+![Relikwie św. Teresy od Dzieciątka Jezus i od Najświętszego Oblicza](/img/relikwiarz.jpg)
